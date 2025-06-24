@@ -30,6 +30,9 @@ public class SwitchCase {
 	    default:
 	    	System.out.println("Entered wrong number");
 		}
+		
+		
+		
 	}
 
 }

@@ -14,6 +14,20 @@ public class ForOdd {
 			}	
 		}
 		System.out.println("Total of odd number till 20 is: "+sum);
+//		int a=1;
+//		
+//		for(int i=1; i<=1; i++){ //outer row
+//			
+//
+//			for(int j=a; j<=i; j++){ //inner column
+//				//System.out.print( " i= "+i+"  j= " +j);
+//				System.out.print(i);
+//	         	}
+//			
+//			System.out.println( );
+//         	}
+//		
+		
 	}
 
 }
